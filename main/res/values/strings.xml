@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">uygulama</string>
+    <string name="siralama">↑↓</string>
+    <string name="indirim">%</string>
+    <string name="meyve">Meyve</string>
+    <string name="sebze">Sebze</string>
+    <string name="yesillik">Yesillik</string>
+    <string name="baslik">Meyve ve Sebze</string>
+    <string name="avokadofiyat"> 79,90 TL</string>
+    <string name="portakalfiyat">59,90 TL</string>
+    <string name="marulfiyat">49,90 TL</string>
+    <string name="elmafiyat">59,90 TL</string>
+    <string name="avokadotext">Bacon Premium Avokado 1 adet</string>
+    <string name="portakaltext">Washington Portakal 1 kg</string>
+    <string name="marultext">Kıvırcık Marul 1 adet</string>
+    <string name="elmatext">Golden Elma 1 kg</string>
+</resources>
